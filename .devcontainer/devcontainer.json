@@ -1,0 +1,7 @@
+{
+  "image": "ubuntu:22.04",
+  "features": {
+    "ms-vscode.cpptools",
+    "ms-python.python"
+  }
+}
